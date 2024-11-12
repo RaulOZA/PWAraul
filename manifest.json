@@ -1,0 +1,93 @@
+{
+    "name": "PWAPDeRaul",
+    "short_name": "PWARaul",
+    "description": "PWA de raul",
+    "background_color": "#ffffff",
+    "theme_color": "#EBD758",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "en-US",
+    "icons": [
+      {
+        "src": "img/logo/1024.jpg",
+        "sizes": "1024x1024",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/384.jpg",
+        "sizes": "384x384",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/256.jpg",
+        "sizes": "256x256",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/192.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/128.jpg",
+        "sizes": "128x128",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/96.jpg",
+        "sizes": "96x96",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/64.jpg",
+        "sizes": "64x64",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/32.jpg",
+        "sizes": "32x32",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/16.jpg",
+        "sizes": "16x16",
+        "type": "image/jpeg",
+        "form_factor": "wide",
+        "purpose": "any"
+      },
+      {
+        "src": "img/logo/144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "form_factor": "wide",
+        "purpose": "any"
+      }
+    ],
+    "dir": "ltr"
+  }
+  
